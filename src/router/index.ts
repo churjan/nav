@@ -8,6 +8,14 @@ const router = createRouter({
       component: () => import('../views/home-page.vue')
     },
     {
+      path: '/common',
+      redirect: '/common/resources'
+    },
+    {
+      path: '/common/:type',
+      component: () => import('../views/common-page.vue')
+    },
+    {
       path: '/frontend',
       redirect: '/frontend/docs'
     },

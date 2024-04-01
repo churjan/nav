@@ -8,6 +8,10 @@
 import { reactive } from 'vue'
 const navList = reactive([
   {
+    title: '通用',
+    path: 'common'
+  },
+  {
     title: '前端',
     path: 'frontend'
   }

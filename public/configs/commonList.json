@@ -1,0 +1,32 @@
+{
+  "resources": [
+    {
+      "title": "聚合网站",
+      "subList": [
+        {
+          "title": "爱达杂货铺",
+          "url": "https://adzhp.xyz",
+          "iconUrl": "https://www.apple120.com/favicon.ico",
+          "desc": "爱达杂货铺收集精品网络免费资源、包括免费视频、网盘搜索、软件、网站和各类资源，欢迎前来探索。"
+        },
+        {
+          "title": "程序员导航cxy521",
+          "url": "http://cxy521.com",
+          "iconUrl": "http://cxy521.com/static/img/favicon.ico",
+          "desc": "CXY521(程序员我爱你)是一个致力于一站式程序员学习工作娱乐导航网站，以让程序员更便捷为使命，始终围绕程序员需求，为程序员提供最新工具导航"
+        }
+      ]
+    },
+    {
+      "title": "网盘搜索",
+      "subList": [
+        {
+          "title": "PanSearch",
+          "url": "https://www.pansearch.me",
+          "iconUrl": "https://www.pansearch.me/favicon.png",
+          "desc": "网盘资源搜索"
+        }
+      ]
+    }
+  ]
+}
