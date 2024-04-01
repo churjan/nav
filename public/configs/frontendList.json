@@ -422,6 +422,17 @@
           "desc": "文心一言（英文名：ERNIE Bot）是百度全新一代知识增强大语言模型。"
         }
       ]
+    },
+    {
+      "title": "AI chrome 插件",
+      "subList": [
+        {
+          "title": "Elmo",
+          "url": "https://www.elmo.chat",
+          "iconUrl": "https://www.elmo.chat/icon.svg?9cc5817589de15c9",
+          "desc": "Elmo is your AI web copilot, a chrome extension to create summaries, insights and extended knowledge."
+        }
+      ]
     }
   ]
 }
