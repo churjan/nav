@@ -63,7 +63,7 @@ watch(
 )
 
 onMounted(() => {
-  axios.get(import.meta.env.BASE_URL + 'configs/websiteList.json').then((res) => {
+  axios.get(import.meta.env.BASE_URL + 'configs/frontendList.json').then((res) => {
     websiteList = res.data
     getList(route.path)
   })
