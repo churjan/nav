@@ -9,26 +9,11 @@ const router = createRouter({
     },
     {
       path: '/frontend',
-      component: () => import('../views/frontend-page.vue'),
-      redirect: '/frontend/docs',
-      children: [
-        {
-          path: 'docs',
-          component: () => import('../views/frontend-page.vue')
-        },
-        {
-          path: 'tools',
-          component: () => import('../views/frontend-page.vue')
-        },
-        {
-          path: 'tutorials',
-          component: () => import('../views/frontend-page.vue')
-        },
-        {
-          path: 'ai',
-          component: () => import('../views/frontend-page.vue')
-        }
-      ]
+      redirect: '/frontend/docs'
+    },
+    {
+      path: '/frontend/:type',
+      component: () => import('../views/frontend-page.vue')
     }
   ]
 })
