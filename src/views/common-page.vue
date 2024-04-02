@@ -17,7 +17,7 @@
             :key="subItem.title"
             :title="subItem.desc"
           >
-            <img class="card-img mr5" :src="subItem.iconUrl" />
+            <img class="card-img mr5" :src="subItem.iconUrl || common.defaultIconUrl" />
             <span>{{ subItem.title }}</span>
           </a>
         </div>
@@ -29,9 +29,11 @@
 <script setup lang="ts">
 import { ref, watch, onMounted, reactive } from 'vue'
 import { useRoute } from 'vue-router'
+import { useCommonStore } from '@/stores/common'
 import axios from 'axios'
 
 const route = useRoute()
+const common = useCommonStore()
 
 let websiteList = []
 let list = ref([])
