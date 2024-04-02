@@ -17,7 +17,7 @@ const router = createRouter({
     },
     {
       path: '/frontend',
-      redirect: '/frontend/docs'
+      redirect: '/frontend/ai'
     },
     {
       path: '/frontend/:type',

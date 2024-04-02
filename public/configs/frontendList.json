@@ -1,4 +1,69 @@
 {
+  "ai": [
+    {
+      "title": "提示词",
+      "subList": [
+        {
+          "title": "ChatGPT 引导语",
+          "url": "https://prompts.fresns.cn/",
+          "iconUrl": "https://ts1.cn.mm.bing.net/th?id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
+          "desc": "欢迎来到 ChatGPT Prompts 引导语大全，这里汇集了丰富的 ChatGPT 提示语、创意写作灵感与实用技巧。让我们帮助您激发无限创意，提升写作效率与质量。立即探索吧！"
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "subList": [
+        {
+          "title": "Kimi",
+          "url": "https://kimi.moonshot.cn",
+          "iconUrl": "https://statics.moonshot.cn/kimi-chat/favicon.ico",
+          "desc": "Kimi 是一个有着超大“内存”的智能助手，可以一口气读完二十万字的小说，还会上网冲浪，快来跟他聊聊吧 | Kimi.ai - Moonshot AI 出品的智能助手"
+        },
+        {
+          "title": "秘塔 AI 搜索",
+          "url": "https://metaso.cn",
+          "iconUrl": "https://ts1.cn.mm.bing.net/th?id=ODLS.946b78e5-59b2-4e2f-afbd-43eb1d2a0503&w=32&h=32&qlt=91&pcl=fffffa&o=6&pid=1.2",
+          "desc": "秘塔 AI 搜索，没有广告，直达结果"
+        },
+        {
+          "title": "天工 AI",
+          "url": "https://search.tiangong.cn",
+          "iconUrl": "https://ts1.cn.mm.bing.net/th?id=ODLS.4972fd17-6e2c-4fe3-b214-b9a5524259f9&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
+          "desc": "天工超能 AI 的官方网站"
+        },
+        {
+          "title": "Devv AI",
+          "url": "https://devv.ai/zh",
+          "iconUrl": "https://ts1.cn.mm.bing.net/th?id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
+          "desc": "Devv AI 是一个专为开发者设计的 AI 驱动搜索引擎，提供快速准确的编程相关查询结果。"
+        },
+        {
+          "title": "通义千问",
+          "url": "https://tongyi.aliyun.com/qianwen",
+          "iconUrl": "https://ts1.cn.mm.bing.net/th?id=ODLS.25f47eaa-cc98-4cdb-8fa4-5fec7f196820&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
+          "desc": "我是通义千问，一个专门响应人类指令的大模型，希望能对你有所帮助"
+        },
+        {
+          "title": "文心一言",
+          "url": "https://yiyan.baidu.com",
+          "iconUrl": "https://nlp-eb.cdn.bcebos.com/logo/favicon.ico",
+          "desc": "文心一言（英文名：ERNIE Bot）是百度全新一代知识增强大语言模型。"
+        }
+      ]
+    },
+    {
+      "title": "AI chrome 插件",
+      "subList": [
+        {
+          "title": "Elmo",
+          "url": "https://www.elmo.chat",
+          "iconUrl": "https://www.elmo.chat/icon.svg?9cc5817589de15c9",
+          "desc": "Elmo is your AI web copilot, a chrome extension to create summaries, insights and extended knowledge."
+        }
+      ]
+    }
+  ],
   "docs": [
     {
       "title": "通用",
@@ -366,71 +431,6 @@
           "url": "https://www.woshipm.com",
           "iconUrl": "https://image.woshipm.com/favicon.ico",
           "desc": "人人都是产品经理致力为产品新人、产品经理等广大产品爱好者打造一个良好的学习交流平台。深度剖析国内外互联网业内动态，分享产品设计、交互设计、视觉设计、用户体验设计、产品运营、产品市场和项目管理等专业产品知识。"
-        }
-      ]
-    }
-  ],
-  "ai": [
-    {
-      "title": "提示词",
-      "subList": [
-        {
-          "title": "ChatGPT 引导语",
-          "url": "https://prompts.fresns.cn/",
-          "iconUrl": "https://ts1.cn.mm.bing.net/th?id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
-          "desc": "欢迎来到 ChatGPT Prompts 引导语大全，这里汇集了丰富的 ChatGPT 提示语、创意写作灵感与实用技巧。让我们帮助您激发无限创意，提升写作效率与质量。立即探索吧！"
-        }
-      ]
-    },
-    {
-      "title": "AI",
-      "subList": [
-        {
-          "title": "Kimi",
-          "url": "https://kimi.moonshot.cn",
-          "iconUrl": "https://statics.moonshot.cn/kimi-chat/favicon.ico",
-          "desc": "Kimi 是一个有着超大“内存”的智能助手，可以一口气读完二十万字的小说，还会上网冲浪，快来跟他聊聊吧 | Kimi.ai - Moonshot AI 出品的智能助手"
-        },
-        {
-          "title": "秘塔 AI 搜索",
-          "url": "https://metaso.cn",
-          "iconUrl": "https://ts1.cn.mm.bing.net/th?id=ODLS.946b78e5-59b2-4e2f-afbd-43eb1d2a0503&w=32&h=32&qlt=91&pcl=fffffa&o=6&pid=1.2",
-          "desc": "秘塔 AI 搜索，没有广告，直达结果"
-        },
-        {
-          "title": "天工 AI",
-          "url": "https://search.tiangong.cn",
-          "iconUrl": "https://ts1.cn.mm.bing.net/th?id=ODLS.4972fd17-6e2c-4fe3-b214-b9a5524259f9&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
-          "desc": "天工超能 AI 的官方网站"
-        },
-        {
-          "title": "Devv AI",
-          "url": "https://devv.ai/zh",
-          "iconUrl": "https://ts1.cn.mm.bing.net/th?id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
-          "desc": "Devv AI 是一个专为开发者设计的 AI 驱动搜索引擎，提供快速准确的编程相关查询结果。"
-        },
-        {
-          "title": "通义千问",
-          "url": "https://tongyi.aliyun.com/qianwen",
-          "iconUrl": "https://ts1.cn.mm.bing.net/th?id=ODLS.25f47eaa-cc98-4cdb-8fa4-5fec7f196820&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
-          "desc": "我是通义千问，一个专门响应人类指令的大模型，希望能对你有所帮助"
-        },
-        {
-          "title": "文心一言",
-          "url": "https://yiyan.baidu.com",
-          "iconUrl": "https://nlp-eb.cdn.bcebos.com/logo/favicon.ico",
-          "desc": "文心一言（英文名：ERNIE Bot）是百度全新一代知识增强大语言模型。"
-        }
-      ]
-    },
-    {
-      "title": "AI chrome 插件",
-      "subList": [
-        {
-          "title": "Elmo",
-          "url": "https://www.elmo.chat",
-          "iconUrl": "https://www.elmo.chat/icon.svg?9cc5817589de15c9",
-          "desc": "Elmo is your AI web copilot, a chrome extension to create summaries, insights and extended knowledge."
         }
       ]
     }

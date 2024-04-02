@@ -38,6 +38,10 @@ let list = ref([])
 
 const navList = reactive([
   {
+    title: 'AI',
+    path: 'ai'
+  },
+  {
     title: '文档',
     path: 'docs'
   },
@@ -48,10 +52,6 @@ const navList = reactive([
   {
     title: '教程',
     path: 'tutorials'
-  },
-  {
-    title: 'AI',
-    path: 'ai'
   }
 ])
 

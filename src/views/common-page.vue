@@ -40,6 +40,10 @@ const navList = reactive([
   {
     title: '资源',
     path: 'resources'
+  },
+  {
+    title: '工具',
+    path: 'tools'
   }
 ])
 

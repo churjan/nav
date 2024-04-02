@@ -28,5 +28,24 @@
         }
       ]
     }
+  ],
+  "tools": [
+    {
+      "title": "视频下载",
+      "subList": [
+        {
+          "title": "SuperParse",
+          "url": "https://superparse.com",
+          "iconUrl": "https://superparse.com/favicon.ico",
+          "desc": "在线下载视频/GIF,兼容电脑和手机端,支持 YouTube, Instagram, Facebook, Twitter, Vimeo, Tumblr, Reddit, 抖音, Ted, Twitch, Imgur 等"
+        },
+        {
+          "title": "TikTok/抖音下载",
+          "url": "https://douyin.wtf",
+          "iconUrl": "",
+          "desc": "在线批量解析TikTok/抖音视频和图片，支持无水印下载，官方数据接口，稳定，开源，免费，无广告。| Online batch parsing of TikTok/Douyin videos and pictures, support for no watermark download, official data interface, stable, open source, free, no ads."
+        }
+      ]
+    }
   ]
 }
