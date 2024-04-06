@@ -27,10 +27,22 @@
       "title": "网盘搜索",
       "subList": [
         {
+          "title": "ED3000",
+          "url": "https://www.ed3000.com",
+          "iconUrl": "https://www.ed3000.com/static/img/favicon.ico",
+          "desc": "ED3000一个简洁易用的阿里云盘搜索引擎，千万怀旧资源及其最新热门的网盘资源，时刻更新:考研,电影,动漫,视频,图书,软件,文档,音乐等网盘资源。"
+        },
+        {
           "title": "PanSearch",
           "url": "https://www.pansearch.me",
           "iconUrl": "https://www.pansearch.me/favicon.png",
           "desc": "网盘资源搜索"
+        },
+        {
+          "title": "小云搜索",
+          "url": "https://www.yunso.net",
+          "iconUrl": "https://www.yunso.net/assets/img/favicon.ico",
+          "desc": "阿里云盘夸克网盘搜索神器 蓝奏云搜索| 网盘搜索引擎"
         }
       ]
     }
