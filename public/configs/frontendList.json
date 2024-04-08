@@ -86,6 +86,12 @@
           "desc": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
         },
         {
+          "title": "DevDocs",
+          "url": "https://devdocs.io",
+          "iconUrl": "https://devdocs.io/favicon.ico",
+          "desc": "Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…"
+        },
+        {
           "title": "网道",
           "url": "https://wangdoc.com",
           "iconUrl": "https://wangdoc.com/assets/icons/favicon-32x32.png",
@@ -248,6 +254,17 @@
           "url": "https://carbon.now.sh",
           "iconUrl": "https://carbon.now.sh/favicon.ico",
           "desc": "Carbon is the easiest way to create and share beautiful images of your source code."
+        }
+      ]
+    },
+    {
+      "title": "图形工具",
+      "subList": [
+        {
+          "title": "iconfont",
+          "url": "https://www.iconfont.cn",
+          "iconUrl": "https://img.alicdn.com/imgextra/i4/O1CN01Z5paLz1O0zuCC7osS_!!6000000001644-55-tps-83-82.svg",
+          "desc": "iconfont-国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。阿里巴巴体验团队倾力打造，设计和前端开发的便捷工具"
         }
       ]
     },
@@ -426,6 +443,18 @@
     {
       "title": "面试",
       "subList": [
+        {
+          "title": "力扣",
+          "url": "https://leetcode.cn",
+          "iconUrl": "https://leetcode.cn/favicon.ico",
+          "desc": "海量技术面试题库，拥有算法、数据结构、系统设计等 1000+题目，帮助你高效提升编程技能，轻松拿下世界 IT 名企 Dream Offer。"
+        },
+        {
+          "title": "牛客网",
+          "url": "https://www.nowcoder.com",
+          "iconUrl": "https://static.nowcoder.com/fe/file/images/nowpick/web/www-favicon.ico",
+          "desc": "找工作神器|笔试题库|面试经验|实习招聘内推，求职就业一站解决_牛客网"
+        },
         {
           "title": "BFE.dev",
           "url": "https://bigfrontend.dev/zh",
