@@ -46,6 +46,10 @@ const navList = reactive([
   {
     title: '工具',
     path: 'tools'
+  },
+  {
+    title: '教程',
+    path: 'tutorials'
   }
 ])
 

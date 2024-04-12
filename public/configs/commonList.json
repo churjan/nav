@@ -10,6 +10,12 @@
           "desc": "A姐分享，分享各种网络云盘资源、视频课程、BT种子、磁力链接、高清电影电视剧和羊毛福利，收集各种有趣实用的软件和APP的下载、安装、使用方法，发现一些稀奇古怪的的网站，折腾一些有趣实用的教程，关注谷歌苹果等互联网最新的资讯动态，探索新领域，发现新美好，分享小快乐。"
         },
         {
+          "title": "ZAPRO",
+          "url": "https://tmioe.com",
+          "iconUrl": "https://tmioe.com/favicon.ico",
+          "desc": "分享各类绿色汉化中文版软件APP和高清影视BT种子、网盘资源，介绍Netflix、Telegram注册使用技巧，共享账号等"
+        },
+        {
           "title": "爱达杂货铺",
           "url": "https://adzhp.xyz",
           "iconUrl": "https://www.apple120.com/favicon.ico",
@@ -97,6 +103,25 @@
           "url": "https://douyin.wtf",
           "iconUrl": "",
           "desc": "在线批量解析TikTok/抖音视频和图片，支持无水印下载，官方数据接口，稳定，开源，免费，无广告。| Online batch parsing of TikTok/Douyin videos and pictures, support for no watermark download, official data interface, stable, open source, free, no ads."
+        },
+        {
+          "title": "SaveTwitter",
+          "url": "https://savetwitter.net/zh-cn",
+          "iconUrl": "https://savetwitter.net/icons/favicon.ico",
+          "desc": "SaveTwitter.net 是一个 Twitter 下载器。允许下载高清 1080p 的 Twitter 视频，免费下载 Twitter GIF，从 Twitter 在线下载 mp3。支持所有设备和平台，例如：PC、iPhone、Android，无需注册帐户或安装软件。"
+        }
+      ]
+    }
+  ],
+  "tutorials": [
+    {
+      "title": "通用",
+      "subList": [
+        {
+          "title": "wikiHow",
+          "url": "https://zh.wikihow.com/",
+          "iconUrl": "https://zh.wikihow.com/favicon_round.ico",
+          "desc": "wikiHow是一项协作项目，目标是建立世界最大的最高质量的指导手册。无论您想做什么，我们的多语种指导手册都可以为您提供免费的逐步指导。"
         }
       ]
     }
