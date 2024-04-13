@@ -235,6 +235,17 @@
       ]
     },
     {
+      "title": "排名",
+      "subList": [
+        {
+          "title": "GitHub Ranking",
+          "url": "https://wangchujiang.com/github-rank/users.china.html",
+          "iconUrl": "https://github.githubassets.com/favicon.ico",
+          "desc": "GitHub Ranking"
+        }
+      ]
+    },
+    {
       "title": "图形工具",
       "subList": [
         {
@@ -254,12 +265,7 @@
           "url": "https://carbon.now.sh",
           "iconUrl": "https://carbon.now.sh/favicon.ico",
           "desc": "Carbon is the easiest way to create and share beautiful images of your source code."
-        }
-      ]
-    },
-    {
-      "title": "图形工具",
-      "subList": [
+        },
         {
           "title": "iconfont",
           "url": "https://www.iconfont.cn",
