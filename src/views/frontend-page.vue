@@ -128,8 +128,8 @@ a {
         .card-item {
           display: flex;
           align-items: center;
-          min-width: 100px;
           margin-right: 16px;
+          margin-left: 16px;
           font-size: 14px;
           .card-img {
             width: 16px;
