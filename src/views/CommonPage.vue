@@ -6,7 +6,7 @@
       </router-link>
     </div>
     <div class="content-view">
-      <div class="card-view" v-for="item in list" :key="item.title">
+      <div class="card-view" v-for="item in websiteList" :key="item.title">
         <div class="card-header">{{ item.title }}</div>
         <div class="card-body">
           <a
@@ -27,49 +27,33 @@
 </template>
 
 <script setup lang="ts">
-import { ref, watch, onMounted, reactive } from 'vue'
+import { ref, watch, onMounted } from 'vue'
 import { useRoute } from 'vue-router'
 import { useCommonStore } from '@/stores/common'
-import axios from 'axios'
 
 const route = useRoute()
 const common = useCommonStore()
 
-let websiteList = []
-let list = ref([])
-
-const navList = reactive([
-  {
-    title: '资源',
-    path: 'resources'
-  },
-  {
-    title: '工具',
-    path: 'tools'
-  },
-  {
-    title: '教程',
-    path: 'tutorials'
-  }
-])
+let navList = ref([])
+let websiteList = ref([])
 
 watch(
   () => route.path,
-  (newRoutePath) => {
-    getList(newRoutePath)
+  () => {
+    fetchWebsiteList()
   }
 )
 
 onMounted(() => {
-  axios.get(import.meta.env.BASE_URL + 'configs/commonList.json').then((res) => {
-    websiteList = res.data
-    getList(route.path)
-  })
+  const catalogName = route.params.catalogName as string
+  navList.value = common.navList[catalogName]
+  fetchWebsiteList()
 })
 
-function getList(path) {
-  const typeName = path.match(/\/(\w+)$/)?.[1]
-  list.value = websiteList[typeName]
+function fetchWebsiteList() {
+  const catalogName = route.params.catalogName as string
+  const typeName = route.params.typeName as string
+  websiteList.value = common.websiteList[catalogName][typeName]
 }
 </script>
 
