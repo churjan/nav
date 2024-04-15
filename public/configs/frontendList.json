@@ -1,11 +1,22 @@
 {
   "ai": [
     {
+      "title": "综合",
+      "subList": [
+        {
+          "title": "AIHub",
+          "url": "https://www.aihub.cn",
+          "iconUrl": "https://www.aihub.cn/wp-content/uploads/2023/06/cropped-aihub_logo-32x32.png",
+          "desc": "AIHub精选国内外999+优质AI工具、资源和资讯，包括AI绘画工具、AI写作工具、AI聊天工具、AI音视频工具、AI办公工具、AI游戏制作工具、AI营销工具等AI工具大全。我们希望通过努力，让更多个人和企业，了解人工智能，用好人工智能，高效工作，快乐生活。"
+        }
+      ]
+    },
+    {
       "title": "提示词",
       "subList": [
         {
           "title": "ChatGPT 引导语",
-          "url": "https://prompts.fresns.cn/",
+          "url": "https://prompts.fresns.cn",
           "iconUrl": "",
           "desc": "欢迎来到 ChatGPT Prompts 引导语大全，这里汇集了丰富的 ChatGPT 提示语、创意写作灵感与实用技巧。让我们帮助您激发无限创意，提升写作效率与质量。立即探索吧！"
         }
