@@ -250,6 +250,12 @@
             "desc": "Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…"
           },
           {
+            "title": "JavaScript框架语法特性对比",
+            "url": "https://component-party.lainbo.com",
+            "iconUrl": "https://component-party.lainbo.com/favicon.png",
+            "desc": "Web component JS frameworks overview by their syntax and features: Vue 2, Vue 3, React, Svelte, SolidJS, Qwik, Angular, Lit, Ember, Alpine, Aurelia 1"
+          },
+          {
             "title": "网道",
             "url": "https://wangdoc.com",
             "iconUrl": "https://wangdoc.com/assets/icons/favicon-32x32.png",
