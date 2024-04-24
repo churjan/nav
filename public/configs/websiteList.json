@@ -173,6 +173,12 @@
         "title": "AI",
         "subList": [
           {
+            "title": "智谱清言",
+            "url": "https://chatglm.cn",
+            "iconUrl": "https://chatglm.cn/img/icons/favicon-32x32.png",
+            "desc": "中国版对话语言模型，与GLM大模型进行对话。"
+          },
+          {
             "title": "Kimi",
             "url": "https://kimi.moonshot.cn",
             "iconUrl": "https://statics.moonshot.cn/kimi-chat/favicon.ico",
