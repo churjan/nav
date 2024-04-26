@@ -104,6 +104,17 @@
             "desc": "图灵社区成立于2005年6月，以策划出版高质量的科技书籍为核心业务，主要出版领域包括计算机、电子电气、数学统计、科普等，通过引进国际高水平的教材、专著，以及发掘国内优秀原创作品等途径，为目标读者提供一流的内容。！"
           }
         ]
+      },
+      {
+        "title": "游戏",
+        "subList": [
+          {
+            "title": "低端游戏",
+            "url": "https://ddyx.me",
+            "iconUrl": "https://ddyx.me/favicon.ico",
+            "desc": "在线玩DOS游戏,在线玩游戏,低端游戏"
+          }
+        ]
       }
     ],
     "tools": [
@@ -289,6 +300,17 @@
             "url": "https://shamansir.github.io/JavaScript-Garden/zh/",
             "iconUrl": "https://shamansir.github.io/JavaScript-Garden/favicon.ico?v=2",
             "desc": "JavaScript 语言最古怪用法的文档集合"
+          }
+        ]
+      },
+      {
+        "title": "CSS 相关",
+        "subList": [
+          {
+            "title": "Tailwind CSS",
+            "url": "https://tailwindcss.com",
+            "iconUrl": "https://tailwindcss.com/favicons/favicon.ico?v=3",
+            "desc": "Tailwind CSS is a utility-first CSS framework for rapidly building modern websites without ever leaving your HTML."
           }
         ]
       },
