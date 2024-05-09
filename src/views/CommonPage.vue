@@ -1,5 +1,8 @@
 <template>
   <div class="page-view">
+    <div class="home-view" @click="$router.push('/')">
+      <el-icon><HomeFilled /></el-icon>
+    </div>
     <div class="nav-view">
       <router-link :to="item.path" class="nav-item" v-for="item in navList" :key="item.title">
         {{ item.title }}
@@ -66,7 +69,12 @@ a {
 .page-view {
   background: #f5f5f5;
   min-height: 100vh;
-
+  .home-view {
+    position: absolute;
+    right: 50px;
+    top: 13px;
+    cursor: pointer;
+  }
   .nav-view {
     height: 50px;
     background-color: #fff;
