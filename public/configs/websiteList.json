@@ -237,10 +237,10 @@
           },
 
           {
-            "title": "通义千问",
+            "title": "通义",
             "url": "https://tongyi.aliyun.com/qianwen",
             "iconUrl": "https://ts1.cn.mm.bing.net/th?id=ODLS.25f47eaa-cc98-4cdb-8fa4-5fec7f196820&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
-            "desc": "我是通义千问，一个专门响应人类指令的大模型，希望能对你有所帮助"
+            "desc": "我是通义，一个专门响应人类指令的大模型，希望能对你有所帮助"
           },
           {
             "title": "文心一言",
@@ -293,12 +293,6 @@
             "url": "https://developer.mozilla.org",
             "iconUrl": "https://developer.mozilla.org/favicon-48x48.cbbd161b.png",
             "desc": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
-          },
-          {
-            "title": "DevDocs",
-            "url": "https://devdocs.io",
-            "iconUrl": "https://devdocs.io/favicon.ico",
-            "desc": "Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…"
           },
           {
             "title": "JavaScript框架语法特性对比",
