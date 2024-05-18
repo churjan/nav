@@ -209,7 +209,7 @@
         ]
       },
       {
-        "title": "AI",
+        "title": "国内 AI",
         "subList": [
           {
             "title": "智谱清言",
@@ -235,12 +235,7 @@
             "iconUrl": "https://ts1.cn.mm.bing.net/th?id=ODLS.4972fd17-6e2c-4fe3-b214-b9a5524259f9&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
             "desc": "天工超能 AI 的官方网站"
           },
-          {
-            "title": "Devv AI",
-            "url": "https://devv.ai/zh",
-            "iconUrl": "https://ts1.cn.mm.bing.net/th?id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
-            "desc": "Devv AI 是一个专为开发者设计的 AI 驱动搜索引擎，提供快速准确的编程相关查询结果。"
-          },
+
           {
             "title": "通义千问",
             "url": "https://tongyi.aliyun.com/qianwen",
@@ -252,6 +247,17 @@
             "url": "https://yiyan.baidu.com",
             "iconUrl": "https://nlp-eb.cdn.bcebos.com/logo/favicon.ico",
             "desc": "文心一言（英文名：ERNIE Bot）是百度全新一代知识增强大语言模型。"
+          }
+        ]
+      },
+      {
+        "title": "国外 AI",
+        "subList": [
+          {
+            "title": "Devv AI",
+            "url": "https://devv.ai/zh",
+            "iconUrl": "https://ts1.cn.mm.bing.net/th?id=ODLS.A2450BEC-5595-40BA-9F13-D9EC6AB74B9F&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
+            "desc": "Devv AI 是一个专为开发者设计的 AI 驱动搜索引擎，提供快速准确的编程相关查询结果。"
           }
         ]
       },
@@ -280,7 +286,7 @@
     ],
     "docs": [
       {
-        "title": "通用",
+        "title": "综合",
         "subList": [
           {
             "title": "MDN Web Docs",
@@ -426,6 +432,23 @@
             "url": "https://prettier.io",
             "iconUrl": "https://prettier.io/icon.png",
             "desc": "Opinionated Code Formatter"
+          }
+        ]
+      },
+      {
+        "title": "构建工具",
+        "subList": [
+          {
+            "title": "Node.js",
+            "url": "https://nodejs.org",
+            "iconUrl": "https://nodejs.org/static/images/favicons/favicon.png",
+            "desc": "Node.js® is a JavaScript runtime built on Chrome&#x27;s V8 JavaScript engine."
+          },
+          {
+            "title": "npm Docs",
+            "url": "https://docs.npmjs.com",
+            "iconUrl": "https://docs.npmjs.com/favicon-32x32.png?v=c2963dcad859b2b320d26051c38197fe",
+            "desc": "Documentation for the npm registry, website, and command-line interface"
           }
         ]
       }
