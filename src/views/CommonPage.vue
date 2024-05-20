@@ -1,12 +1,16 @@
 <template>
   <div class="page-view">
-    <div class="home-view" @click="$router.push('/')">
-      <el-icon><HomeFilled /></el-icon>
-    </div>
-    <div class="nav-view">
-      <router-link :to="item.path" class="nav-item" v-for="item in navList" :key="item.title">
-        {{ item.title }}
-      </router-link>
+    <div class="header-view">
+      <div class="nav-view">
+        <router-link :to="item.path" class="nav-item" v-for="item in navList" :key="item.title">
+          {{ item.title }}
+        </router-link>
+      </div>
+      <div class="toolbar-view">
+        <div class="home-icon" @click="$router.push('/')">
+          <el-icon><HomeFilled /></el-icon>
+        </div>
+      </div>
     </div>
     <div class="content-view">
       <div class="card-view" v-for="item in websiteList" :key="item.title">
@@ -68,31 +72,50 @@ a {
 
 .page-view {
   background: #f5f5f5;
-  min-height: 100vh;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
   .home-view {
     position: absolute;
     right: 50px;
     top: 13px;
     cursor: pointer;
   }
-  .nav-view {
+  .header-view {
     height: 50px;
     background-color: #fff;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    .nav-item {
-      padding: 16px;
-      &.router-link-active {
-        color: #1e80ff;
-        font-weight: 700;
+    .nav-view {
+      flex: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      .nav-item {
+        padding: 16px;
+        &.router-link-active {
+          color: #1e80ff;
+          font-weight: 700;
+        }
+      }
+    }
+    .toolbar-view {
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+      .home-icon {
+        padding: 0 16px;
       }
     }
   }
   .content-view {
+    flex: 1;
+    overflow-x: auto;
+    width: 100%;
     max-width: 1200px;
-    margin: 0 auto;
-    padding: 16px;
+    margin: 16px auto;
+    padding: 0 16px;
+
     a:visited {
       color: #999;
     }
