@@ -119,6 +119,18 @@
             "url": "https://ddyx.me",
             "iconUrl": "https://ddyx.me/favicon.ico",
             "desc": "在线玩DOS游戏,在线玩游戏,低端游戏"
+          },
+          {
+            "title": "koyso",
+            "url": "https://koyso.com",
+            "iconUrl": "https://koyso.com/static/picture/logo_u.ico",
+            "desc": "一个无限制的PC游戏网站"
+          },
+          {
+            "title": "EMU666",
+            "url": "https://www.emu666.com",
+            "iconUrl": "https://www.emu666.com/logo512.png",
+            "desc": "在浏览器中免费玩模拟器游戏！包括 GBA, SNES, NDS, GBC, GB, N64, NES, PSP, PS2, XBOX, WII 和更多游戏！"
           }
         ]
       }
