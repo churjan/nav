@@ -230,16 +230,28 @@
         "title": "国内 AI",
         "subList": [
           {
-            "title": "智谱清言",
-            "url": "https://chatglm.cn",
-            "iconUrl": "https://chatglm.cn/img/icons/favicon-32x32.png",
-            "desc": "中国版对话语言模型，与GLM大模型进行对话。"
+            "title": "通义",
+            "url": "https://tongyi.aliyun.com/qianwen",
+            "iconUrl": "https://ts1.cn.mm.bing.net/th?id=ODLS.25f47eaa-cc98-4cdb-8fa4-5fec7f196820&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
+            "desc": "我是通义，一个专门响应人类指令的大模型，希望能对你有所帮助"
           },
           {
             "title": "Kimi",
             "url": "https://kimi.moonshot.cn",
             "iconUrl": "https://statics.moonshot.cn/kimi-chat/favicon.ico",
             "desc": "Kimi 是一个有着超大“内存”的智能助手，可以一口气读完二十万字的小说，还会上网冲浪，快来跟他聊聊吧 | Kimi.ai - Moonshot AI 出品的智能助手"
+          },
+          {
+            "title": "元宝",
+            "url": "https://yuanbao.tencent.com",
+            "iconUrl": "https://cdn-bot.hunyuan.tencent.com/logo.png",
+            "desc": "腾讯元宝"
+          },
+          {
+            "title": "智谱清言",
+            "url": "https://chatglm.cn",
+            "iconUrl": "https://chatglm.cn/img/icons/favicon-32x32.png",
+            "desc": "中国版对话语言模型，与GLM大模型进行对话。"
           },
           {
             "title": "秘塔 AI 搜索",
@@ -252,13 +264,6 @@
             "url": "https://search.tiangong.cn",
             "iconUrl": "https://ts1.cn.mm.bing.net/th?id=ODLS.4972fd17-6e2c-4fe3-b214-b9a5524259f9&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
             "desc": "天工超能 AI 的官方网站"
-          },
-
-          {
-            "title": "通义",
-            "url": "https://tongyi.aliyun.com/qianwen",
-            "iconUrl": "https://ts1.cn.mm.bing.net/th?id=ODLS.25f47eaa-cc98-4cdb-8fa4-5fec7f196820&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
-            "desc": "我是通义，一个专门响应人类指令的大模型，希望能对你有所帮助"
           },
           {
             "title": "文心一言",
