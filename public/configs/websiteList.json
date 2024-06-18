@@ -173,6 +173,12 @@
             "url": "https://savetwitter.net/zh-cn",
             "iconUrl": "https://savetwitter.net/icons/favicon.ico",
             "desc": "SaveTwitter.net 是一个 Twitter 下载器。允许下载高清 1080p 的 Twitter 视频，免费下载 Twitter GIF，从 Twitter 在线下载 mp3。支持所有设备和平台，例如：PC、iPhone、Android，无需注册帐户或安装软件。"
+          },
+          {
+            "title": "cobalt",
+            "url": "https://cobalt.tools",
+            "iconUrl": "https://cobalt.tools/icons/favicon.ico",
+            "desc": "cobalt is your go-to place for downloads from social and media platforms. zero ads, trackers, or other creepy bullshit. simply paste a share link and you're ready to rock!"
           }
         ]
       },
