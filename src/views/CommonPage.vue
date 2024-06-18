@@ -35,10 +35,11 @@
 
 <script setup lang="ts">
 import { ref, watch, onMounted } from 'vue'
-import { useRoute } from 'vue-router'
+import { useRoute, useRouter } from 'vue-router'
 import { useCommonStore } from '@/stores/common'
 
 const route = useRoute()
+const router = useRouter()
 const common = useCommonStore()
 
 let navList = ref([])
@@ -61,6 +62,9 @@ function fetchWebsiteList() {
   const catalogName = route.params.catalogName as string
   const typeName = route.params.typeName as string
   websiteList.value = common.websiteList[catalogName][typeName]
+  if (!websiteList.value) {
+    router.replace('/')
+  }
 }
 </script>
 
