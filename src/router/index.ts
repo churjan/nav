@@ -1,4 +1,4 @@
-import { createRouter, createWebHashHistory } from 'vue-router'
+import { createRouter, createWebHistory } from 'vue-router'
 import { useCommonStore } from '@/stores/common'
 
 import HomePage from '../views/HomePage.vue'
@@ -8,7 +8,7 @@ import NotFoundPage from '../views/NotFoundPage.vue'
 let hasFetched = false
 
 const router = createRouter({
-  history: createWebHashHistory(import.meta.env.BASE_URL),
+  history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
     {
       path: '',
