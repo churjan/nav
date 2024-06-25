@@ -185,6 +185,12 @@
             "url": "https://cobalt.tools",
             "iconUrl": "https://cobalt.tools/icons/favicon.ico",
             "desc": "cobalt is your go-to place for downloads from social and media platforms. zero ads, trackers, or other creepy bullshit. simply paste a share link and you're ready to rock!"
+          },
+          {
+            "title": "DLPanda",
+            "url": "https://dlpanda.com/zh-CN",
+            "iconUrl": "https://dlpanda.com/favicon.ico",
+            "desc": "视频在线解析下载 - DLPanda.com - 下载熊猫提供最新抖音在线无水印下载解析工具。无水印下载抖音Tiktok海外版视频"
           }
         ]
       },
